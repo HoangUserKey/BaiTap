@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\Thi\Thi\bin\Debug\Thi.exe.config
+E:\CoDeC#\BaiThucHanh\Thi\Thi\bin\Debug\Thi.exe
+E:\CoDeC#\BaiThucHanh\Thi\Thi\bin\Debug\Thi.pdb
+E:\CoDeC#\BaiThucHanh\Thi\Thi\obj\Debug\Thi.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\Thi\Thi\obj\Debug\Thi.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\Thi\Thi\obj\Debug\Thi.exe
+E:\CoDeC#\BaiThucHanh\Thi\Thi\obj\Debug\Thi.pdb

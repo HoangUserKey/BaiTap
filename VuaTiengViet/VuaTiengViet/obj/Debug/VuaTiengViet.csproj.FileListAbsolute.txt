@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\bin\Debug\VuaTiengViet.exe.config
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\bin\Debug\VuaTiengViet.exe
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\bin\Debug\VuaTiengViet.pdb
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\obj\Debug\VuaTiengViet.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\obj\Debug\VuaTiengViet.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\obj\Debug\VuaTiengViet.exe
+E:\CoDeC#\BaiThucHanh\VuaTiengViet\VuaTiengViet\obj\Debug\VuaTiengViet.pdb

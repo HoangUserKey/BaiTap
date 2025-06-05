@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\bin\Debug\CodeGameRan.exe.config
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\bin\Debug\CodeGameRan.exe
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\bin\Debug\CodeGameRan.pdb
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\obj\Debug\CodeGameRan.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\obj\Debug\CodeGameRan.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\obj\Debug\CodeGameRan.exe
+E:\CoDeC#\BaiThucHanh\CodeGameRan\CodeGameRan\obj\Debug\CodeGameRan.pdb

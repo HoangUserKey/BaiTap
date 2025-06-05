@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\bin\Debug\C25_02.exe.config
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\bin\Debug\C25_02.exe
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\bin\Debug\C25_02.pdb
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\obj\Debug\C25_02.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\obj\Debug\C25_02.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\obj\Debug\C25_02.exe
+E:\CoDeC#\BaiThucHanh\C25_02\C25_02\obj\Debug\C25_02.pdb

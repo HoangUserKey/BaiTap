@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85019A-0428-49E2-ABEC-FF6C6871FDDC}|BaiTap\\BaiTap.csproj|e:\\codec#\\baithuchanh\\baitap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85019A-0428-49E2-ABEC-FF6C6871FDDC}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85019A-0428-49E2-ABEC-FF6C6871FDDC}|BaiTap\\BaiTap.csproj|e:\\codec#\\baithuchanh\\baitap\\baitap\\sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85019A-0428-49E2-ABEC-FF6C6871FDDC}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C85019A-0428-49E2-ABEC-FF6C6871FDDC}|BaiTap\\BaiTap.csproj|e:\\codec#\\baithuchanh\\baitap\\baitap\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C85019A-0428-49E2-ABEC-FF6C6871FDDC}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SV.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\BaiTap\\SV.cs",
+              "RelativeDocumentMoniker": "BaiTap\\SV.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\BaiTap\\SV.cs",
+              "RelativeToolTip": "BaiTap\\SV.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:37:33.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\BaiTap\\Nguoi.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Nguoi.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\BaiTap\\Nguoi.cs",
+              "RelativeToolTip": "BaiTap\\Nguoi.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:44:53.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\BaiTap\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Program.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap\\BaiTap\\Program.cs*",
+              "RelativeToolTip": "BaiTap\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:44:42.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

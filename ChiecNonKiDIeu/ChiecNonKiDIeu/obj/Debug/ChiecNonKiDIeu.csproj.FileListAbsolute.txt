@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\bin\Debug\ChiecNonKiDIeu.exe.config
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\bin\Debug\ChiecNonKiDIeu.exe
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\bin\Debug\ChiecNonKiDIeu.pdb
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\obj\Debug\ChiecNonKiDIeu.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\obj\Debug\ChiecNonKiDIeu.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\obj\Debug\ChiecNonKiDIeu.exe
+E:\CoDeC#\BaiThucHanh\ChiecNonKiDIeu\ChiecNonKiDIeu\obj\Debug\ChiecNonKiDIeu.pdb

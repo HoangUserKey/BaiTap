@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|e:\\codec#\\baithuchanh\\baitap_bai15\\baitap_bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\baitap_bai15\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\baitap_bai15\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\baitap_bai15\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\baitap_bai15\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\baitap_bai15\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\baitap_bai15\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C2D0E-B7ED-4174-A279-4B8C71E139E9}|BaiTap_Bai15\\BaiTap_Bai15.csproj|solutionrelative:baitap_bai15\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HinhVuong.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\HinhVuong.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\HinhVuong.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\HinhVuong.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\HinhVuong.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:27:37.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhChuNhat.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\HinhChuNhat.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\HinhChuNhat.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\HinhChuNhat.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\HinhChuNhat.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:53:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\HangHoa.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\HangHoa.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\HangHoa.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\HangHoa.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA1wDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:26:34.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\News.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\News.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\News.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\News.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:00:35.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\SinhVien.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\SinhVien.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\SinhVien.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\SinhVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:09:36.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\Class1.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\Class1.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\Class1.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\Class1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:46:37.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap_Bai15\\Program.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap_Bai15\\BaiTap_Bai15\\Program.cs",
+              "RelativeToolTip": "BaiTap_Bai15\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:46:30.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

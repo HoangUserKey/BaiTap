@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.pdb
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.exe
+E:\CoDeC#\BaiThucHanh\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.pdb

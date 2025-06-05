@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\bin\Debug\BaiTap_Bai15.exe.config
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\bin\Debug\BaiTap_Bai15.exe
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\bin\Debug\BaiTap_Bai15.pdb
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\obj\Debug\BaiTap_Bai15.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\obj\Debug\BaiTap_Bai15.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\obj\Debug\BaiTap_Bai15.exe
+E:\CoDeC#\BaiThucHanh\BaiTap_Bai15\BaiTap_Bai15\obj\Debug\BaiTap_Bai15.pdb

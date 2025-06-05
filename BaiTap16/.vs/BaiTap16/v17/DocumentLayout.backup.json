@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|e:\\codec#\\baithuchanh\\baitap16\\baitap16\\emtyloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|solutionrelative:baitap16\\emtyloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|e:\\codec#\\baithuchanh\\baitap16\\baitap16\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|solutionrelative:baitap16\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|e:\\codec#\\baithuchanh\\baitap16\\baitap16\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|solutionrelative:baitap16\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|e:\\codec#\\baithuchanh\\baitap16\\baitap16\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|solutionrelative:baitap16\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|e:\\codec#\\baithuchanh\\baitap16\\baitap16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658FFBB-EF77-4010-B1C6-BD4E699F5B8A}|BaiTap16\\BaiTap16.csproj|solutionrelative:baitap16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmtyLoyee.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\EmtyLoyee.cs",
+              "RelativeDocumentMoniker": "BaiTap16\\EmtyLoyee.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\EmtyLoyee.cs",
+              "RelativeToolTip": "BaiTap16\\EmtyLoyee.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAArwIgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:51:59.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\Class1.cs",
+              "RelativeDocumentMoniker": "BaiTap16\\Class1.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\Class1.cs",
+              "RelativeToolTip": "BaiTap16\\Class1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwEUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:36:30.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HinhHoc.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\HinhHoc.cs",
+              "RelativeDocumentMoniker": "BaiTap16\\HinhHoc.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\HinhHoc.cs",
+              "RelativeToolTip": "BaiTap16\\HinhHoc.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA8wCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:55:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\LopHoc.cs",
+              "RelativeDocumentMoniker": "BaiTap16\\LopHoc.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\LopHoc.cs",
+              "RelativeToolTip": "BaiTap16\\LopHoc.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv1gAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:37:37.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap16\\Program.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\BaiTap16\\BaiTap16\\Program.cs",
+              "RelativeToolTip": "BaiTap16\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:37:27.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\bin\Debug\UngVienTuyenDung.exe.config
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\bin\Debug\UngVienTuyenDung.exe
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\bin\Debug\UngVienTuyenDung.pdb
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\obj\Debug\UngVienTuyenDung.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\obj\Debug\UngVienTuyenDung.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\obj\Debug\UngVienTuyenDung.exe
+E:\CoDeC#\BaiThucHanh\UngVienTuyenDung\UngVienTuyenDung\obj\Debug\UngVienTuyenDung.pdb

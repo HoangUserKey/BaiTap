@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\bin\Debug\HBAcademy.exe.config
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\bin\Debug\HBAcademy.exe
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\bin\Debug\HBAcademy.pdb
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\obj\Debug\HBAcademy.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\obj\Debug\HBAcademy.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\obj\Debug\HBAcademy.exe
+E:\CoDeC#\BaiThucHanh\HBAcademy\HBAcademy\obj\Debug\HBAcademy.pdb

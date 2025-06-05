@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\bin\Debug\Bai10.exe.config
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\bin\Debug\Bai10.exe
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\bin\Debug\Bai10.pdb
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\obj\Debug\Bai10.exe
+E:\CoDeC#\BaiThucHanh\Bai10\Bai10\obj\Debug\Bai10.pdb

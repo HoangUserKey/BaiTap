@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoDeC#\\BaiThucHanh\\CodeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766DF0DC-CB89-4405-A78B-4C7A10E22448}|CodeGame\\CodeGame.csproj|e:\\codec#\\baithuchanh\\codegame\\codegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766DF0DC-CB89-4405-A78B-4C7A10E22448}|CodeGame\\CodeGame.csproj|solutionrelative:codegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\CodeGame\\CodeGame\\Program.cs",
+              "RelativeDocumentMoniker": "CodeGame\\Program.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\CodeGame\\CodeGame\\Program.cs",
+              "RelativeToolTip": "CodeGame\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:47:34.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

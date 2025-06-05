@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\bin\Debug\CodeGame.exe.config
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\bin\Debug\CodeGame.exe
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\bin\Debug\CodeGame.pdb
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\obj\Debug\CodeGame.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\obj\Debug\CodeGame.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\obj\Debug\CodeGame.exe
+E:\CoDeC#\BaiThucHanh\CodeGame\CodeGame\obj\Debug\CodeGame.pdb

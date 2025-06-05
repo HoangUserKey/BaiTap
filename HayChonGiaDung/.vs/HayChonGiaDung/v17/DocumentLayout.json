@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoDeC#\\BaiThucHanh\\HayChonGiaDung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EE14CA-F922-45DA-AA2C-1582539ABD53}|HayChonGiaDung\\HayChonGiaDung.csproj|e:\\codec#\\baithuchanh\\haychongiadung\\haychongiadung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EE14CA-F922-45DA-AA2C-1582539ABD53}|HayChonGiaDung\\HayChonGiaDung.csproj|solutionrelative:haychongiadung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\HayChonGiaDung\\HayChonGiaDung\\Program.cs",
+              "RelativeDocumentMoniker": "HayChonGiaDung\\Program.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\HayChonGiaDung\\HayChonGiaDung\\Program.cs",
+              "RelativeToolTip": "HayChonGiaDung\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:32:19.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

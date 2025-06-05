@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\bin\Debug\HayChonGiaDung.exe.config
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\bin\Debug\HayChonGiaDung.exe
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\bin\Debug\HayChonGiaDung.pdb
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\obj\Debug\HayChonGiaDung.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\obj\Debug\HayChonGiaDung.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\obj\Debug\HayChonGiaDung.exe
+E:\CoDeC#\BaiThucHanh\HayChonGiaDung\HayChonGiaDung\obj\Debug\HayChonGiaDung.pdb

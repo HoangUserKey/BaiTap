@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\Ran\Ran\bin\Debug\Ran.exe.config
+E:\CoDeC#\BaiThucHanh\Ran\Ran\bin\Debug\Ran.exe
+E:\CoDeC#\BaiThucHanh\Ran\Ran\bin\Debug\Ran.pdb
+E:\CoDeC#\BaiThucHanh\Ran\Ran\obj\Debug\Ran.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\Ran\Ran\obj\Debug\Ran.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\Ran\Ran\obj\Debug\Ran.exe
+E:\CoDeC#\BaiThucHanh\Ran\Ran\obj\Debug\Ran.pdb

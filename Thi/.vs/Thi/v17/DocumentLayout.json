@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoDeC#\\BaiThucHanh\\Thi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|e:\\codec#\\baithuchanh\\thi\\thi\\hungtrung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|solutionrelative:thi\\hungtrung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|E:\\CoDeC#\\BaiThucHanh\\Thi\\thi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|solutionrelative:thi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|E:\\CoDeC#\\BaiThucHanh\\Thi\\thi\\songuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|solutionrelative:thi\\songuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|E:\\CoDeC#\\BaiThucHanh\\Thi\\thi\\quanlymuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D5B245-9C6B-4236-95A0-9455BF1056D8}|Thi\\Thi.csproj|solutionrelative:thi\\quanlymuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HungTrung.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\HungTrung.cs",
+              "RelativeDocumentMoniker": "Thi\\HungTrung.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\HungTrung.cs",
+              "RelativeToolTip": "Thi\\HungTrung.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:18:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoNguyen.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\SoNguyen.cs",
+              "RelativeDocumentMoniker": "Thi\\SoNguyen.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\SoNguyen.cs",
+              "RelativeToolTip": "Thi\\SoNguyen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:14:25.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyMuonSach.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\QuanLyMuonSach.cs",
+              "RelativeDocumentMoniker": "Thi\\QuanLyMuonSach.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\QuanLyMuonSach.cs",
+              "RelativeToolTip": "Thi\\QuanLyMuonSach.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:39:21.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\Program.cs",
+              "RelativeDocumentMoniker": "Thi\\Program.cs",
+              "ToolTip": "E:\\CoDeC#\\BaiThucHanh\\Thi\\Thi\\Program.cs",
+              "RelativeToolTip": "Thi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:35:52.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

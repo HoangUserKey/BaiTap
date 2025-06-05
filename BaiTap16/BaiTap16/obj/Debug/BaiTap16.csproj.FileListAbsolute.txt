@@ -1,0 +1,7 @@
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\bin\Debug\BaiTap16.exe.config
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\bin\Debug\BaiTap16.exe
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\bin\Debug\BaiTap16.pdb
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\obj\Debug\BaiTap16.csproj.AssemblyReference.cache
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\obj\Debug\BaiTap16.csproj.CoreCompileInputs.cache
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\obj\Debug\BaiTap16.exe
+E:\CoDeC#\BaiThucHanh\BaiTap16\BaiTap16\obj\Debug\BaiTap16.pdb
